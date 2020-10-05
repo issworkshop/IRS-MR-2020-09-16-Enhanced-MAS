@@ -45,9 +45,9 @@ The initial mortgage approval system needs a personnel to manually qualify each 
 `Refer to project report at Github Folder: ProjectReport`
 
 **Recommended Sections for Project Report / Paper:**
-- Executive Summary / Paper Abstract
-- Business Problem Background
-- Knowledge discovery and automatic qualification based on rule based decision table.
+- Business problem
+- Knowledge discovery
+- Automatic qualification based on rule based decision table
 - Enhanced Mortgage Approval system can automatically qualify an application.
 
 ---
