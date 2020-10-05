@@ -1,4 +1,4 @@
-﻿### [ Practice Module ] Project Submission Template: Github Repository & Zip File
+﻿### [ Practice Module ]
 
 **[ Naming Convention ]** IRS-MR-2020-09-16-Enhanced-MAS.zip
 
